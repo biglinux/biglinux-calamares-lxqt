@@ -1,4 +1,5 @@
 lxqt
+biglinux-skel-lxqt
 sddm
 sddm-xorg-failsafe
 sddm-theme-biglinux
