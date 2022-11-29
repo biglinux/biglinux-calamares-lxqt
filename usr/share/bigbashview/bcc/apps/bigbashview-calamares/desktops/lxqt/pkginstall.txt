@@ -4,3 +4,11 @@ sddm-xorg-failsafe
 sddm-theme-biglinux
 libpamac-flatpak-plugin
 brave-browser
+xdg-utils
+libpulse
+libstatgrab
+libsysstat
+lm_sensors
+network-manager-applet
+oxygen-icons
+pavucontrol-qt
