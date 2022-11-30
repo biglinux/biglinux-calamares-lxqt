@@ -3,7 +3,7 @@
 pkgname=biglinux-calamares-lxqt
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
-pkgdesc="Calamares configs for BigLinux Lxqt"
+pkgdesc="Calamares configs for BigLinux Community LXQt"
 arch=('any')
 url="https://github.com/biglinux/$pkgname"
 license=('GPL3')
