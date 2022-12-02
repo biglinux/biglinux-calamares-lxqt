@@ -1,4 +1,6 @@
 lxqt
+lxqt-themes
+picom
 xdg-utils
 biglinux-skel-lxqt
 sddm
