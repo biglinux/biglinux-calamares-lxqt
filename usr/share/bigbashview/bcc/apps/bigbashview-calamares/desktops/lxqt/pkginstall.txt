@@ -1,8 +1,9 @@
 lxqt
 lxqt-themes
-picom
-xdg-utils
 biglinux-skel-lxqt
+picom
+kvantum-qt5
+xdg-utils
 sddm
 sddm-xorg-failsafe
 sddm-theme-biglinux
