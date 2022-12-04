@@ -4,6 +4,8 @@ lxqt-themes
 lxqt-arc-dark-theme-big
 biglinux-skel-lxqt
 arc-gtk-theme
+kvantum-qt5
+kvantum-theme-arc
 
 #SDDM
 sddm
@@ -12,7 +14,6 @@ sddm-greeter-software-render
 
 
 picom
-kvantum-qt5
 xdg-utils
 libpamac-flatpak-plugin
 libpulse
