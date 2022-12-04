@@ -1,13 +1,8 @@
 lxqt
-lxqt-themes
 biglinux-skel-lxqt
 picom
 kvantum-qt5
 xdg-utils
-sddm
-sddm-xorg-failsafe
-sddm-theme-biglinux
-sddm-greeter-software-render 
 libpamac-flatpak-plugin
 libpulse
 libstatgrab
