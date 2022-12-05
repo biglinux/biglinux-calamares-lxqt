@@ -1,27 +1,28 @@
 #LXQT-DESKTOP-BIG-COMMUNITY
 lxqt
-lxqt-themes
 lxqt-arc-dark-theme-big
 biglinux-skel-lxqt
-arc-gtk-theme
+arc-gtk-theme-big
 kvantum-qt5
-kvantum-theme-arc
+kvantum-theme-arc-big
+picom
+xdg-utils
+network-manager-applet
 
 #SDDM
 sddm
 sddm-xorg-failsafe
 sddm-greeter-software-render 
 
-
-picom
-xdg-utils
+#COMUM
 libpamac-flatpak-plugin
 libpulse
 libstatgrab
 libsysstat
 lm_sensors
-network-manager-applet
 oxygen-icons
 pavucontrol-qt
+
+#PROGRAMASnetwork-manager-applet
 brave-browser
 kate
