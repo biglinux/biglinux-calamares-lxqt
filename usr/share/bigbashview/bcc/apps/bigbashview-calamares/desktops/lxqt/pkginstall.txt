@@ -13,7 +13,8 @@ lxqt-qtplugin
 lxqt-runner  
 lxqt-session 
 lxqt-sudo
-lxqt-themes  
+lxqt-themes
+breeze-extended
 obconf-qt
 openbox 
 pavucontrol-qt
