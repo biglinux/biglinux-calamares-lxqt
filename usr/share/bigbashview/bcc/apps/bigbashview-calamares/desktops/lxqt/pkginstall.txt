@@ -15,6 +15,9 @@ lxqt-session
 lxqt-sudo
 lxqt-themes
 lxqt-arc-dark-theme-big
+lightdm
+lightdm-gtk-greeter
+lightdm-webkit2-greeter
 breeze-extended
 arc-gtk-theme
 arc-icon-theme
