@@ -17,6 +17,8 @@ lxqt-themes
 lxqt-arc-dark-theme-big
 breeze-extended
 arc-gtk-theme
+arc-icon-theme
+gtk-engine-murrine
 obconf-qt
 openbox 
 pavucontrol-qt
