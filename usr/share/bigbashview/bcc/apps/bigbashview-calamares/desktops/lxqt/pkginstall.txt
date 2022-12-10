@@ -14,14 +14,15 @@ lxqt-runner
 lxqt-session 
 lxqt-sudo
 lxqt-themes
+lxqt-arc-dark-theme-big
 breeze-extended
+arc-gtk-theme
 obconf-qt
 openbox 
 pavucontrol-qt
 pcmanfm-qt  
 qterminal
 screengrab
-lxqt-arc-dark-theme-big
 biglinux-skel-lxqt
 kvantum
 kvantum-theme-arc-big
