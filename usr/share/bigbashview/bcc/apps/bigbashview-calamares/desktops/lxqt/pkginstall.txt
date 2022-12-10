@@ -31,9 +31,6 @@ kvantum-theme-arc-big
 picom
 xdg-utils
 network-manager-applet
-sddm
-sddm-xorg-failsafe
-sddm-greeter-software-render 
 libpamac-flatpak-plugin
 libpulse
 libstatgrab
