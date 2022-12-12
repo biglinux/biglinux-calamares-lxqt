@@ -30,7 +30,6 @@ screengrab
 biglinux-skel-lxqt
 kvantum
 kvantum-theme-arc-big
-picom
 xdg-utils
 network-manager-applet
 libpamac-flatpak-plugin
