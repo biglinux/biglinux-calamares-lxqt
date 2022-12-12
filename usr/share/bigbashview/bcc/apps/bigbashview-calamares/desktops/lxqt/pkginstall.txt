@@ -15,6 +15,7 @@ lxqt-session
 lxqt-sudo
 lxqt-themes
 lxqt-arc-dark-theme-big
+mugshot
 lightdm
 lightdm-webkit2-greeter
 lightdm-theme-biglinux-community-lxqt
