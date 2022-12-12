@@ -17,6 +17,7 @@ lxqt-themes
 lxqt-arc-dark-theme-big
 lightdm
 lightdm-webkit2-greeter
+lightdm-theme-biglinux-community-lxqt
 breeze-extended
 arc-gtk-theme
 arc-icon-theme
