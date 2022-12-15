@@ -16,6 +16,7 @@ lxqt-sudo
 lxqt-themes
 lxqt-arc-dark-theme-big
 mugshot
+xsettingsd
 lightdm
 lightdm-webkit2-greeter
 lightdm-settings
