@@ -18,10 +18,8 @@ lxqt-arc-dark-theme-big
 mugshot
 lightdm
 lightdm-webkit2-greeter
-lightdm-slick-greeter
 lightdm-settings
 numlockx
-lightdm-theme-biglinux-community-lxqt
 breeze-extended
 arc-gtk-theme
 arc-icon-theme
@@ -42,7 +40,7 @@ libpulse
 libstatgrab
 libsysstat
 lm_sensors
-oxygen-icons
 pavucontrol-qt
 brave-browser
 kate
+kcalc
