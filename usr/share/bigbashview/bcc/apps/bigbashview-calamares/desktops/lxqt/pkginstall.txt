@@ -18,7 +18,7 @@ lxqt-arc-dark-theme-big
 mugshot
 xsettingsd
 lightdm
-lightdm-webkit2-greeter
+lightdm-slick-biglinux-greeter
 lightdm-settings
 numlockx
 breeze-extended
