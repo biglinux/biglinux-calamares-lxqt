@@ -25,6 +25,7 @@ breeze-extended
 arc-gtk-theme
 arc-icon-theme
 gtk-engine-murrine
+gtk-engines
 obconf-qt
 openbox 
 pavucontrol-qt
