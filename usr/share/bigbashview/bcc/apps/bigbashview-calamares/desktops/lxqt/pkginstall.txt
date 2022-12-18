@@ -45,3 +45,4 @@ pavucontrol-qt
 brave-browser
 kate
 kcalc
+telegram-desktop
