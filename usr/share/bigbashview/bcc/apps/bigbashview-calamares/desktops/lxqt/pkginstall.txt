@@ -19,7 +19,6 @@ mugshot
 xsettingsd
 lightdm
 lightdm-slick-biglinux-greeter
-lightdm-settings
 numlockx
 breeze-extended
 arc-gtk-theme
