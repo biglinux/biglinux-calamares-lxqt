@@ -46,3 +46,4 @@ brave-browser
 kate
 kcalc
 telegram-desktop
+okular
