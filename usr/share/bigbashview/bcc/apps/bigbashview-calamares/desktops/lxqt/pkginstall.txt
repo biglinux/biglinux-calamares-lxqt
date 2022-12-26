@@ -47,3 +47,5 @@ kate
 kcalc
 telegram-desktop
 okular
+simplescreenrecorder
+lib32-simplescreenrecorder
