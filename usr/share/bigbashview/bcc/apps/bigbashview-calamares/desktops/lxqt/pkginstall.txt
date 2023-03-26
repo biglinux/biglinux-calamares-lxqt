@@ -14,15 +14,11 @@ lxqt-runner
 lxqt-session 
 lxqt-sudo
 lxqt-themes
-lxqt-arc-dark-theme-big
 mugshot
 xsettingsd
 lightdm
 lightdm-slick-biglinux-greeter
 numlockx
-breeze-extended
-arc-gtk-theme
-arc-icon-theme
 gtk-engine-murrine
 gtk-engines
 obconf-qt
@@ -33,7 +29,6 @@ qterminal
 screengrab
 biglinux-skel-lxqt
 kvantum
-kvantum-theme-arc-big
 xdg-utils
 network-manager-applet
 libpamac-flatpak-plugin
