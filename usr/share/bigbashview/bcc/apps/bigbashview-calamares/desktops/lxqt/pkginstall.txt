@@ -28,7 +28,6 @@ pcmanfm-qt
 qterminal
 screengrab
 biglinux-skel-lxqt
-kvantum
 xdg-utils
 network-manager-applet
 libpamac-flatpak-plugin
