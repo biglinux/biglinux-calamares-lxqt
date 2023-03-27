@@ -21,6 +21,7 @@ lightdm-slick-biglinux-greeter
 numlockx
 gtk-engine-murrine
 gtk-engines
+breeze-gtk
 obconf-qt
 openbox 
 pavucontrol-qt
