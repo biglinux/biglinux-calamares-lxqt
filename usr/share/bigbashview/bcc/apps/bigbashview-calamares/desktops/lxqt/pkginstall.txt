@@ -1,3 +1,6 @@
+lightdm
+biglinux-skel-lxqt
+lightdm-slick-biglinux-greeter
 lximage-qt  
 lxqt-about  
 lxqt-admin
@@ -16,8 +19,6 @@ lxqt-sudo
 lxqt-themes
 mugshot
 xsettingsd
-lightdm
-lightdm-slick-biglinux-greeter
 numlockx
 gtk-engine-murrine
 gtk-engines
@@ -28,7 +29,6 @@ pavucontrol-qt
 pcmanfm-qt  
 qterminal
 screengrab
-biglinux-skel-lxqt
 xdg-utils
 network-manager-applet
 libpamac-flatpak-plugin
