@@ -1,7 +1,7 @@
 lightdm
 biglinux-skel-lxqt
 lightdm-slick-biglinux-greeter
-breeze-extended-dark
+breeze-extended
 lximage-qt  
 lxqt-about  
 lxqt-admin
