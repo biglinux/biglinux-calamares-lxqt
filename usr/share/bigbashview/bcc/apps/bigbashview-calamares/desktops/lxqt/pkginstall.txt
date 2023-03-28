@@ -24,6 +24,7 @@ numlockx
 gtk-engine-murrine
 gtk-engines
 breeze-gtk
+biglinux-settings
 obconf-qt
 openbox 
 pavucontrol-qt
