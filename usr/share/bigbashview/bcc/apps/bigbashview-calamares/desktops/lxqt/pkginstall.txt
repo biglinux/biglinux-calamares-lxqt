@@ -2,6 +2,7 @@ lightdm
 biglinux-skel-lxqt
 lightdm-slick-biglinux-greeter
 breeze-extended
+kvantum
 lximage-qt  
 lxqt-about  
 lxqt-admin
