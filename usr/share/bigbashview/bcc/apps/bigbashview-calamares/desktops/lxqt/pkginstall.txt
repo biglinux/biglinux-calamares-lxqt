@@ -19,6 +19,7 @@ lxqt-runner
 lxqt-session 
 lxqt-sudo
 lxqt-themes
+qps
 mugshot
 xsettingsd
 numlockx
