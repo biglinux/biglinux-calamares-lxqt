@@ -42,9 +42,10 @@ libsysstat
 lm_sensors
 pavucontrol-qt
 brave-browser
-kate
 kcalc
 telegram-desktop
 okular
 simplescreenrecorder
 lib32-simplescreenrecorder
+Leafpad
+kwin
