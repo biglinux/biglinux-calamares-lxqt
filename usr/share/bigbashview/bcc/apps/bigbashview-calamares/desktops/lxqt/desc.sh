@@ -16,5 +16,5 @@ export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=calamares-biglinux
 
 
-DESKTOP_NAME_DESC=$"LXQt"
+DESKTOP_NAME_DESC="LXQt"
 DESKTOP_INFO_DESC=$"Ambiente desktop formado a partir da fusão dos projetos LXDE e Razor-qt."
