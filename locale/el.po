@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "LXQt"
-msgstr "ΛΧΖτ"
-
 msgid "Ambiente desktop formado a partir da fusão dos projetos LXDE e Razor-qt."
 msgstr "Περιβάλλον επιφάνειας εργασίας που δημιουργήθηκε από τη συγχώνευση έργων lxde και razor-qt."

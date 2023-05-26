@@ -15,9 +15,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "LXQt"
-msgstr "LXQt"
-
 msgid ""
 "Ambiente desktop formado a partir da fusão dos projetos LXDE e Razor-qt."
 msgstr ""
