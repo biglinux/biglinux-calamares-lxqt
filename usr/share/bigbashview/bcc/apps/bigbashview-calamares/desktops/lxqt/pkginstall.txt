@@ -28,7 +28,6 @@ gtk-engines
 breeze-gtk
 biglinux-settings
 obconf-qt
-openbox 
 pavucontrol-qt
 pcmanfm-qt  
 qterminal
@@ -46,3 +45,4 @@ kcalc
 telegram-desktop
 okular
 kwin
+systemsettings
